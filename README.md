@@ -41,7 +41,7 @@ Currently, I work as a **Tech Lead** in the public sector, focusing on high-scal
 
 ### 🌟 Featured Projects
 
-#### [🕹️ Prototyper](https://thiagosimoes.itch.io/)
+#### [🕹️ Prototyper](https://thiagosimoes.itch.io/prototyper-demo)
 A 2D platformer prototype focused on precision and challenge. Recently migrated from Construct 3 to **MonoGame** using GeminiAI (Antigravity tool) for functional testing. (Future roadmap: Complete rebuild from scratch in C# with MonoGame).
 
 #### [🔫 CowboyShooter-XNA](https://github.com/templariosp/CowboyShooter-XNA)
