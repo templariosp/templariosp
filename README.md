@@ -33,7 +33,7 @@ Currently, I work as a **Tech Lead** in the public sector, focusing on high-scal
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft--Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <!--<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />-->
   <img src="https://img.shields.io/badge/Architecture-Clean--Code-blue?style=for-the-badge" />
 </p>
 
