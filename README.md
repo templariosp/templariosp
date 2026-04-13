@@ -6,13 +6,9 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Software Architect** with over 20 years of corporate experience in **Software Development** on the Microsoft .NET platform (C#). Throughout the years, I've been a dedicated **Indie Game Dev**, exploring various engines and frameworks such as Unity3D, Construct 3, Clickteam Fusion 2.5+, and GameMaker Studio 2.
-
-Currently, I work as a **Tech Lead** in the public sector, focusing on high-scale systems, while dedicating my free time to crafting **2D retro-style games** using MonoGame/XNA.
-
 - 🇧🇷 Based in São Paulo, Brazil.
 - ⚡ Founder/Member of **HellCoffee Inc.**
-- 🏗️ Specialist in software architecture, scalable systems, and technical leadership.
+- 🏗️ Over 20 years of experience in Microsoft .NET platform (C#/ASP.NET).
 - 🕹️ Passionate about pixel art, platform 8 and 16 bit games.
 
 ---
