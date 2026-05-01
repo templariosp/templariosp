@@ -24,7 +24,7 @@
 
 ### 🛠️ My Tech Stack (Legacy)
 
-#### **Game Development (Projects that i worked before but not make part of my actual stack anymore) **
+#### **Game Development (Projects that i worked before but not make part of my actual stack anymore)**
 <p align="left">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Clickteam--Fusion-00549E?style=for-the-badge&logo=clickteam&logoColor=white" />
