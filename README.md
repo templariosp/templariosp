@@ -15,6 +15,14 @@
 
 ### 🛠️ My Tech Stack (Actual)
 
+#### **Architecture & Engineering**
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft--Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-Clean--Code-blue?style=for-the-badge" />
+</p>
+
 #### **Game Development**
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -30,14 +38,6 @@
   <img src="https://img.shields.io/badge/Construct3-44566F?style=for-the-badge&logo=construct3&logoColor=white" />
   <img src="https://img.shields.io/badge/Clickteam--Fusion-00549E?style=for-the-badge&logo=clickteam&logoColor=white" />
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-</p>
-
-#### **Architecture & Engineering**
-<p align="left">
-  <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft--Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Architecture-Clean--Code-blue?style=for-the-badge" />
 </p>
 
 ---
