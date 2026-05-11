@@ -44,14 +44,11 @@
 
 ### 🌟 Featured Projects
 
-#### [🕹️ Prototyper](https://thiagosimoes.itch.io/prototyper-demo)
+#### [Prototyper](https://thiagosimoes.itch.io/prototyper-demo)
 A 2D platformer prototype focused on precision and challenge. Recently migrated from Construct 3 to **MonoGame** using GeminiAI (Antigravity tool) for functional testing. (Future roadmap: Complete rebuild from scratch in C# with MonoGame).
 
-#### [🔫 CowboyShooter-XNA](https://github.com/templariosp/CowboyShooter-XNA)
-A mouse-click shooter prototype using classic Sunset Riders sprites, built with C# and MonoGame/XNA.
-
-#### [🎾 Pong-XNA](https://github.com/templariosp/Pong-XNA)
-A close recreation of the classic Pong game exploring the capabilities of the MonoGame framework.
+#### [HellCoffee.Engine](https://github.com/templariosp/HellCoffee.Engine)
+A 2D game engine built on top of MonoGame 3.8 (.NET 9.0), designed for retro pixel art games with a clean, modular architecture.
 
 ---
 
