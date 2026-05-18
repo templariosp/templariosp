@@ -27,13 +27,13 @@
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/MonoGame-E11922?style=for-the-badge&logo=monogame&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
 ### 🛠️ My Tech Stack (Legacy)
 
 #### **Projects that i worked before but not make part of my actual stack anymore**
 <p align="left">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white" />
   <img src="https://img.shields.io/badge/Construct3-44566F?style=for-the-badge&logo=construct3&logoColor=white" />
   <img src="https://img.shields.io/badge/Clickteam--Fusion-00549E?style=for-the-badge&logo=clickteam&logoColor=white" />
