@@ -52,15 +52,6 @@ A 2D game engine built on top of MonoGame 3.8 (.NET 9.0), designed for retro pix
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=templariosp&show_icons=true&theme=tokyonight&count_private=true" alt="Thiago's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=templariosp&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Let's Connect!
 
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](http://thiagosimoes.itch.io/)
