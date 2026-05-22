@@ -8,7 +8,7 @@
 
 - 🇧🇷 Based in São Paulo, Brazil.
 - ⚡ Founder/Member of **HellCoffee Inc.**
-- 🏗️ Over 20 years of experience in Microsoft .NET platform (C#/ASP.NET).
+- 🏗️ Over 20 years of experience in Microsoft .NET platform development (C#/ASP.NET).
 - 🕹️ Passionate about pixel art, platform 8 and 16 bit games.
 
 ---
