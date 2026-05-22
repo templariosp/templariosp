@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thiago Simões (templariosp)
 
-### 🚀 Software Architect | Tech Lead | Indie Game Dev 🎮
+### 🚀 Software Architect | IA Specialist | Tech Lead | Indie Game Dev 🎮
 
 ---
 
